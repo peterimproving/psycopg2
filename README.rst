@@ -78,3 +78,4 @@ production it is advised to use the package built from sources.
 .. |gh-actions| image:: https://github.com/psycopg/psycopg2/actions/workflows/tests.yml/badge.svg
     :target: https://github.com/psycopg/psycopg2/actions/workflows/tests.yml
     :alt: Build status
+
